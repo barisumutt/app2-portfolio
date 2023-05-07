@@ -12,3 +12,9 @@ with col2:
     Hi, I am Barış! I am a python enthusiast, mechanical engineer and full-time learner.
     """
     st.info(content)
+
+content2= """
+Below you can find some of the apps I have built in Python. Feel free to contact me! 
+"""
+
+st.write(content2)
