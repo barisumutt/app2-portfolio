@@ -1,4 +1,4 @@
-# App2 Portfolio
+# App 2 Portfolio
 This project showcases a collection of Python apps developed by Barış Umut Baykal. The apps are built using the streamlit library for creating interactive web applications and pandas for data manipulation.
 
 ## Prerequisites
